@@ -9,5 +9,3 @@ Finally Made an OpenGL Square / Rectangle which is RGB!!!
 ![image](https://user-images.githubusercontent.com/71706645/139423921-cb196e5f-d883-4f1a-b4aa-62b39618f5f4.png)
 
 This is how it looks..
-
-**MSVC cl.exe is used here for the building of the program.**
